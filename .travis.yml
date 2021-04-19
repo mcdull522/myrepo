@@ -1,4 +1,5 @@
 language: nodejs
+  - version: 7
 
 before_script:
   - npm install
